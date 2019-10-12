@@ -3,11 +3,11 @@ Producing randomly generated artwork inspired by Russian Avant Garde using Proce
 
 Some screenshots:
 
-<img src="avant_garde/screenshots/art-01.png" align="center" width="500">
-<img src="avant_garde/screenshots/art-11.png" align="center" width="500">
+<img src="random_collage/screenshots/screen-0083.jpg" align="center" width="500">
+<img src="random_collage/screenshots/screen-0073.jpg" align="center" width="500">
 
-<img src="avant_garde/screenshots/art-71.png" align="center" width="500">
-<img src="avant_garde/screenshots/art-rand2.png" align="center" width="500">
+<img src="random_collage/screenshots/screen-0069.jpg" align="center" width="500">
+<img src="random_collage/screenshots/screen-0065.jpg" align="center" width="500">
 
-<img src="avant_garde/screenshots/art-21.png" align="center" width="500">
-<img src="avant_garde/screenshots/art-61.png" align="center" width="500">
+<img src="random_collage/screenshots/screen-0056.jpg" align="center" width="500">
+<img src="random_collage/screenshots/screen-0048.jpg" align="center" width="500">
